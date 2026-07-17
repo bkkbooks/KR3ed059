@@ -23,10 +23,10 @@ assets:
   - {seq: 4, filename: KR3ed059_004.yaml, hash: 'sha256:535fc2cf580c1334069261ee6e0d9c615d2b4263d348bf1b97c647a1a5234a8f'}
   - {seq: 0, filename: KR3ed059_000.yaml, hash: 'sha256:1fae00a3ca87aee8acd893267dbeb3474a4803d8e21856c6f3e114c27fe007c4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed059_000.markers.yaml, hash: 'sha256:617046c74b3c801e059b92e55c685c738cde6893eaa850f528e47438e2f2ab97'}
-  - {seq: 1, role: markers, filename: assets/KR3ed059_001.markers.yaml, hash: 'sha256:45118548258bdbe34545b0effc96e6746053e8d35274a4b0e4e7cb790099fc6a'}
-  - {seq: 2, role: markers, filename: assets/KR3ed059_002.markers.yaml, hash: 'sha256:bb95eea7677dfb718626d03792cede34cd569b117b9600947a1950100ea6f048'}
-  - {seq: 4, role: markers, filename: assets/KR3ed059_004.markers.yaml, hash: 'sha256:143c4bf7cfbef70c4f121b874f136a2e3a60a7320b508fe4a9423ae46603f84d'}
+  - {seq: 0, role: markers, filename: assets/KR3ed059_000.markers.yaml, hash: 'sha256:bca399987aef38d4fe58839fa734d0236f6e296f00bcd5479571269fa5061f2c'}
+  - {seq: 1, role: markers, filename: assets/KR3ed059_001.markers.yaml, hash: 'sha256:4f6a0db6dd95331ba696e0e196dee6e9ca0772e14e07e0e447d671e2934abb3c'}
+  - {seq: 2, role: markers, filename: assets/KR3ed059_002.markers.yaml, hash: 'sha256:e9caee8de6afac6b63ad35f407b0d95fa3d4acc475a5d4e40fc276c081589ee4'}
+  - {seq: 4, role: markers, filename: assets/KR3ed059_004.markers.yaml, hash: 'sha256:02ceb0494ee0a9ae0ab4008f298ca2fad85a1eaa64af28a122d0752ee4cf2f71'}
 table_of_contents:
 - ref:
     seq: 0
@@ -2538,7 +2538,7 @@ table_of_contents:
   label: 培補藥方
   type: section
   level: 2
-hash: sha256:f1f8ac11b8b438fe81b4ee4c5cadd794b530ed4510a672e84693f0bd95273dac
+hash: sha256:9f695f80d7fbc50dbbf345bc6a1fbda1588b32a3c1451189db5ecfe55005115a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
